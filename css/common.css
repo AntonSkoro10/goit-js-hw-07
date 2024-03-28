@@ -13,6 +13,19 @@ body {
   line-height: 1.5;
 }
 
+ul {
+  list-style: none;
+}
+
+.item {
+  direction: rtl;
+}
+
+.categories-item {
+  border: blueviolet;
+  border-radius: 10%;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
