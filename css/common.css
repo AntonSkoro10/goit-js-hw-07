@@ -21,11 +21,6 @@ ul {
   direction: rtl;
 }
 
-.categories-item {
-  border: blueviolet;
-  border-radius: 10%;
-}
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
